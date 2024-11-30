@@ -8,6 +8,11 @@ Dataset Description
 
 This project uses Netflix viewing history and Spotify streaming history to analyze cross-platform entertainment behavior. The Netflix dataset includes timestamps, titles, genres, and watch durations, while the Spotify dataset provides track details, play durations, skips, and platform information. Together, these datasets enable a comparative analysis of video and audio streaming habits.
 
+[NetflixViewingHistory.zip](https://github.com/user-attachments/files/17964855/NetflixViewingHistory.zip)
+
+
+[Spotify Extended Streaming History.zip](https://github.com/user-attachments/files/17964856/Spotify.Extended.Streaming.History.zip)
+
 Project Idea
 
 The aim is to uncover patterns in entertainment consumption, explore correlations between Netflix genres and Spotify preferences, and build insights for personalized recommendations. Key questions include: How do users allocate time between these platforms? Are there connections between the genres of watched shows and listened music? Can we recommend content across platforms?
