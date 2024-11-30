@@ -1,5 +1,9 @@
 # Zeynep Dağcı CS210-TERM-PROJECT 
 
+Motivation
+
+The reason I chose to work on these datasets as my project topic is that Spotify and Netflix have been the two applications I use the most for a long time. In general, I make choices based on my mood, and I believe these preferences are reflected in my usage of these two platforms. I wanted to visually explore the connection between them.
+
 Dataset Description
 
 This project uses Netflix viewing history and Spotify streaming history to analyze cross-platform entertainment behavior. The Netflix dataset includes timestamps, titles, genres, and watch durations, while the Spotify dataset provides track details, play durations, skips, and platform information. Together, these datasets enable a comparative analysis of video and audio streaming habits.
