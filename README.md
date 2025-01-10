@@ -23,17 +23,19 @@ The goal is to identify patterns in entertainment consumption, examine the relat
 
 The project started with data cleansing and harmonization of Spotify and Netflix data. Following that, we explored genre preferences, temporal allocation of entertainment, and the distribution of Turkish songs and movies over time, while also comparing the genres and analyzing the time spent on movies and songs.
 
+
 Exploratory data analysis (EDA) was conducted using visualizations, including:
 
-Top 10 Most Listened Genres, Artists, and Songs.
-Yearly Ratio of Turkish Movies Watched to Total Movies Watched.
-Overall Ratio of Turkish Movies Watched to Total Movies Watched.
-Total Number of Items Watched per Year on Netflix.
-Ratio of Turkish Songs to All Songs Listened to on Spotify.
-Listening Durations Over the Years.
-Correlations Between Genres of Movies and Songs.
-Correlation Between Listening to Turkish Songs and Watching Turkish Movies.
-Correlation Between Time Allocated to Listening to Music and Watching Movies.
+- Top 10 Most Listened Genres, Artists, and Songs.  
+- Yearly Ratio of Turkish Movies Watched to Total Movies Watched.  
+- Overall Ratio of Turkish Movies Watched to Total Movies Watched.  
+- Total Number of Items Watched per Year on Netflix.  
+- Ratio of Turkish Songs to All Songs Listened to on Spotify.  
+- Listening Durations Over the Years.  
+- Correlations Between Genres of Movies and Songs.  
+- Correlation Between Listening to Turkish Songs and Watching Turkish Movies.  
+- Correlation Between Time Allocated to Listening to Music and Watching Movies.  
+
 
 
 
