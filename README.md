@@ -19,6 +19,10 @@ https://www.themoviedb.org/list/8506092-dsa210?view=grid
 
 The goal is to identify patterns in entertainment consumption, examine the relationships between Netflix genres and Spotify preferences, and generate insights that can be used for personalized content recommendations. Key questions include: How do users allocate time between these platforms? Are there connections between the genres of watched shows and listened music? 
 
+Based on the data analysis, there is a strong correlation of 0.72 between the genres of songs listened to and movies watched (Plot3.png), indicating a clear relationship between these two. However, the language of songs and movies does not seem to play a significant role, with a low correlation of 0.16.(Plot2,png) Additionally, there is no evident relationship between the amount of time allocated for listening to music and watching movies.(Plot1.png).
+
+In conclusion, while there isn't a clear connection in terms of time allocation, we can still make effective suggestions based on users' preferences for genres, whether it's the genres of music they listen to or the movies they watch.
+
 # Project Plan
 
 The project started with data cleansing and harmonization of Spotify and Netflix data. Following that, we explored genre preferences, temporal allocation of entertainment, and the distribution of Turkish songs and movies over time, while also comparing the genres and analyzing the time spent on movies and songs.
@@ -32,9 +36,9 @@ Exploratory data analysis (EDA) was conducted using visualizations, including:
 - Total Number of Items Watched per Year on Netflix.  
 - Ratio of Turkish Songs to All Songs Listened to on Spotify.  
 - Listening Durations Over the Years.  
-- Correlations Between Genres of Movies and Songs.  
-- Correlation Between Listening to Turkish Songs and Watching Turkish Movies.  
-- Correlation Between Time Allocated to Listening to Music and Watching Movies.  
+- Correlations Between Genres of Movies and Songs.  (Plot3.png)
+- Correlation Between Listening to Turkish Songs and Watching Turkish Movies.  (Plot2.png)
+- Correlation Between Time Allocated to Listening to Music and Watching Movies.  (Plot1.png)
 
 
 
